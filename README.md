@@ -92,6 +92,6 @@ http://localhost:8080/
 
 ### 🙋‍♀️ Author
 
-Made with ❤️ by [Aayu](https://github.com/YOUR-USERNAME)
+Made with ❤️ by [Aayu](https://github.com/sehgalaayu)
 
 ---
